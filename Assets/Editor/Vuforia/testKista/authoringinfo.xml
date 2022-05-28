@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.6.3">
+<ModelTarget name="testKista" targetId="fb8da35c4a2c4cc7b29dcdb9b877381e" version="14.0" toolVersion="10.6.3" bbox="-0.128172 -0.128186 -0.000188 0.132186 0.257185 0.023381" previewImage="fb8da35c4a2c4cc7b29dcdb9b877381e_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="testKistas_assembly" assemblyId="f3f464f3f68b48eeb3cebc32c845b18c">
+<Part name="testKista" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.063 -5.46311e-08 0.539" rotation="AD: 1 1 4.37114e-08 180" image="" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

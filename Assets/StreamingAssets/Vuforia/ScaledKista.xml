@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="ScaledKista" motionHint="dynamic" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="ScaledKistas_assembly" assemblyId="5561086180c143a0ad9ce8def0ab6533">
+<Part name="ScaledKista" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.0639999 9.94854e-09 0.553" rotation="AD: 0.894427 0.894427 -0.894427 240" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

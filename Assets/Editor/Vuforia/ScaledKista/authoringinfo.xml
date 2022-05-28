@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.6.3">
+<ModelTarget name="ScaledKista" targetId="4efe29f7831a404785d64bb7b8195ebc" version="14.0" toolVersion="10.6.3" bbox="-0.128172 -0.000188 -0.257185 0.132186 0.023381 0.128186" previewImage="4efe29f7831a404785d64bb7b8195ebc_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="ScaledKistas_assembly" assemblyId="5561086180c143a0ad9ce8def0ab6533">
+<Part name="ScaledKista" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.0639999 9.94854e-09 0.553" rotation="AD: 0.894427 0.894427 -0.894427 240" image="" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

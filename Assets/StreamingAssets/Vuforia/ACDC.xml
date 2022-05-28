@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ATM-45x3cm" size="0.030000 0.045000" />
+    <ImageTarget name="current-door-3x6cm" size="0.060000 0.029958" />
+    <ImageTarget name="automatic-door-3x6cm" size="0.060000 0.029958" />
+    <ImageTarget name="Platform" size="0.220000 0.373254" />
+    <ImageTarget name="atm-30x45mm-redmodel-v2" size="0.030000 0.045000" />
+    <ImageTarget name="current_door_6_3_cm" size="0.030000 0.014979" />
+    <ImageTarget name="atm_3_45_cm" size="0.030000 0.045000" />
+    <ImageTarget name="automatic_door_6_3_cm" size="0.600000 0.299824" />
+    <ImageTarget name="auto" size="0.600000 0.300000" />
+  </Tracking>
+</QCARConfig>

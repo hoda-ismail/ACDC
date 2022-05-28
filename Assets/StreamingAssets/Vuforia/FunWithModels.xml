@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QCARConfig>
+    <Tracking>
+        <ModelTarget name="2cvTributeParts" trackingMode="default" motionHint="adaptive" upVector="0.0 1.0 0.0"> </ModelTarget>
+        <ModelTarget name="SimpleArchParts" trackingMode="default" motionHint="static" upVector="0.0 1.0 0.0"> </ModelTarget>
+    </Tracking>
+    <Assembly name="2cvTributeParts" assemblyId="0037e41e0152443f8a23acde7a8bfa32">
+        <Part name="2cvTributeParts" translation="0 0 0" rotation="AD: 0 0 1 0"></Part>
+        <EntryPoint 
+        image="sideCar.png" rotation="AD: -0.8195970129253871 -0.11574577250598007 0.5611271269068862 160.80846971956785" translation="-6.047150465356156E-4 0.026291522636032686 0.20982852345856717" name="sideCar" trained="yes">
+</EntryPoint>
+        <EntryPoint 
+        image="frontCloseup.png" rotation="AD: -0.9999233933773335 0.00162112181101408 -0.012271077411215602 164.949704003309" translation="1.4921819029679008E-4 0.0015269332143561106 0.12255000161032922" name="frontCloseup" trained="yes">
+</EntryPoint>
+        <EntryPoint 
+        image="backCloseUp.png" rotation="AD: -0.008268278067177549 0.24299684587983336 -0.9699918393833302 179.76264431579065" translation="-4.214218881357693E-4 0.009120527607082238 0.13600862687603318" name="backCloseUp" trained="yes">
+</EntryPoint>
+        <EntryPoint 
+        image="sideCloseUp.png" rotation="AD: -0.4781731936197214 0.40064180998048754 -0.7815603220475534 152.45441177856813" translation="-0.006843106433403718 0.0062613918331115865 0.11284861582813344" name="sideCloseUp" trained="yes">
+</EntryPoint>
+    </Assembly>
+    <Assembly name="SimpleArchParts" assemblyId="9dc30b06c03447e9acced6936df455ee">
+        <Part name="SimpleArchParts" translation="0 0 0" rotation="AD: 0 0 1 0"></Part>
+        <EntryPoint 
+        image="sideView.png" rotation="AD: -0.7019177419154483 -0.13539612223421943 0.6992706011754348 164.52085413840692" translation="1.9601593621260713E-4 0.029334569550293926 0.1822000545590593" name="sideView" trained="yes">
+</EntryPoint>
+        <EntryPoint 
+        image="topCloseup.png" rotation="AD: -4.48878180265562E-4 -0.44262623288618946 0.8967060925795921 179.9746096817224" translation="1.934676935260994E-7 0.01938579315559319 0.12141898778108914" name="topCloseup" trained="yes">
+</EntryPoint>
+        <EntryPoint 
+        image="closeupAngle.png" rotation="AD: -0.3901774484482483 0.18045322271234446 -0.9028832666159805 171.0819521983136" translation="0.025180415649712865 0.003429506213608691 0.11278393329186999" name="closeupAngle" trained="yes">
+</EntryPoint>
+    </Assembly>
+    <ModelTargetDatabase name="FunWithModels"> </ModelTargetDatabase>
+</QCARConfig>

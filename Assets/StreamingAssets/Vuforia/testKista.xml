@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="testKista" motionHint="dynamic" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="testKistas_assembly" assemblyId="f3f464f3f68b48eeb3cebc32c845b18c">
+<Part name="testKista" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.063 -5.46311e-08 0.539" rotation="AD: 1 1 4.37114e-08 180" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
